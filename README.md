@@ -9,7 +9,7 @@
 
 # 👋 Hi, I'm Omar Asim
 
-I'm Omar, a CS student and developer who likes turning ideas into things that actually work. I build with code, experiment with AI, design interfaces, and occasionally make hardware do things it probably wasn't supposed to. Outside tech, I've spent 5+ years debating, which has taught me to question ideas, explain them clearly, and defend them when necessary.
+A CS student and developer who likes turning ideas into things that actually work. I build with code, experiment with AI, design interfaces, and occasionally make hardware do things it probably wasn't supposed to. Outside tech, I've spent 5+ years debating, which has taught me to question ideas, explain them clearly, and defend them when necessary.
 
 I'm currently working on a few projects, mainly:
 
